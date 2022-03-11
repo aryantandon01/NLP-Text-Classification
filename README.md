@@ -1,4 +1,4 @@
-# NLP-Text-Classification
+# Sentiment Analysis
 
 Can you imagine manually sorting through thousands of tweets, customer support conversations, or surveys, or product and movie reviews? There’s just too much business data to process manually. Sentiment analysis helps businesses process huge amounts of data in an efficient and cost-effective way. 
 
